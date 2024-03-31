@@ -9,4 +9,4 @@ Here are some of my projects:
 
 - [Jim's Kitchen](https://github.com/JuliusLhamo/jimskitchen)
 - [Multicalibration/Multiaccuracy](https://github.com/JuliusLhamo/MA_MC)
-- [Advertising impact analysis]
+- Advertising impact analysis
