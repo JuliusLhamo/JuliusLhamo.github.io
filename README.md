@@ -10,6 +10,6 @@ I'm a Bachelor's student, currently studying at the Ludwig-Maximilians-Universit
 
 Here are some of my projects:
 
-- [Project 1](link-to-project-1)
+- [Jim's Kitchen](https://github.com/JuliusLhamo/jimskitchen)
 - [Project 2](link-to-project-2)
 - [Project 3](link-to-project-3)
